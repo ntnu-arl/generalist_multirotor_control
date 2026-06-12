@@ -87,7 +87,7 @@ python scripts/train_evaluate.py --scenario 8 --rnn
 | Argument | Default | Description |
 |----------|---------|-------------|
 | `--scenario` | `-1` | Observation scenario (see table above) |
-| `--rnn` | `False` | Use recurrent (LSTM) policy instead of FFN |
+| `--rnn` | `False` | Use recurrent policy instead of FFN |
 | `--tr` | `False` | Run training before evaluation |
 | `--robot_num` | `-1` | Fix evaluation to a single robot index |
 | `--seed` | `23` | Random seed |
